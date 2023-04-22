@@ -1,0 +1,67 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+button {
+	cursor: pointer;
+}
+
+fieldset {
+	margin-top: 445px;
+	width: 27%;
+	background-color: #318CE7;
+	box-shadow: 5px 5px 20px 1px 10px rgb(85, 85, 85);
+	border: 0px;
+	padding-left: 20px;
+	border-radius: 0px 0px 0px 0px;
+	color: white;
+	height: 600px;
+}
+
+td {
+	letter-spacing: 1px;
+}
+
+h1 {
+	font-family: andalus;
+	letter-spacing: 3px;
+	text-align: center;
+	color: white;
+}
+
+hr {
+	border: 5px solid white;
+	border-radius: 10px;
+	width: 40px;
+}
+
+ul li {
+	margin-left: 20px;
+	color: white;
+}
+
+#submit {
+	margin: 30px;
+	color: red;
+	background-color: yellow;
+	width: 80%;
+	font-size: 17px;
+	border-radius: 20px;
+	border: 1px solid white;
+}
+
+#submit:hover {
+    color: white;
+    background-color: yellow;
+}
+
+input {
+	font-size: 12px;
+	border: white;
+	outline: none;
+	background: none;
+	border-bottom: 1px solid white;
+}
